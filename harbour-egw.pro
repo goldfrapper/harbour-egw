@@ -23,7 +23,9 @@ DISTFILES += qml/harbour-egw.qml \
     rpm/harbour-egw.spec \
     rpm/harbour-egw.yaml \
     translations/*.ts \
-    harbour-egw.desktop
+    harbour-egw.desktop \
+    qml/pages/SettingsPage.qml \
+    qml/components/EGW_Model.qml
 
 SAILFISHAPP_ICONS = 86x86 108x108 128x128 172x172
 
